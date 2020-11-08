@@ -1,0 +1,19 @@
+arm_client_id = ""
+
+arm_client_secret = ""
+
+arm_tenant_id = ""
+
+arm_subscription_id = ""
+
+ssh_key_pub = "~/.ssh/id_rsa.pub"
+
+vault_domain = ""
+
+vault_name = ""
+
+vault_resource_group = ""
+
+certificate_thumbprint = ""
+
+mysql_server_name = ""
